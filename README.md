@@ -190,7 +190,7 @@ mara/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/mara.git
+git clone https://github.com/suhruthsai/mara.git
 cd mara/MARA
 ```
 
